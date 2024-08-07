@@ -36,7 +36,7 @@ Ensure you have Python and pip installed on your system. You will also need the 
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning
 cd house-price-prediction
 ```
 You can install the required libraries using pip:

@@ -39,7 +39,7 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning
-cd house-price-prediction
+cd House-Price-Prediction-using-Machine-Learning
 ```
 You can install the required libraries using pip:
 

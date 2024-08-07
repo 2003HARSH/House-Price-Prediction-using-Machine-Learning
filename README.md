@@ -4,6 +4,8 @@
 
 This project implements a house price prediction model using linear regression. The model predicts house prices based on features such as location, total square feet, number of bathrooms, and the number of bedrooms (BHK). The backend is built with Flask, and a simple HTML frontend is used for user interaction.
 
+![https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/1.png](https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/1.png)
+
 ## Features
 
 - **Linear Regression Model:** Utilizes linear regression to predict house prices.

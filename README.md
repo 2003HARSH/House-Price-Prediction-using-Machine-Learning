@@ -61,6 +61,20 @@ The server will start and listen on `http://127.0.0.1:4000/` .
 
 After the form is open enter the required values to get the output.
 
+---
+
+# Plots
+![https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/1.png](https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/1.png)
+![https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/2.png](https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/2.png)
+![https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/3.png](https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/3.png)
+![https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/4.png](https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/4.png)
+![https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/6.png](https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/6.png)
+![https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/7.png](https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/7.png)
+![https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/8.png](https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/8.png)
+![https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/9.png](https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/plots/9.png)
+
+---
+
 ## API Endpoint
 
 ### POST /predict

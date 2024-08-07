@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>House Price Prediction</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            max-width: 600px;
+            width: 100%;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #343a40;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+        .form-group input, .form-group select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ced4da;
+            border-radius: 5px;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+        .form-group button {
+            width: 100%;
+            background-color: #007bff;
+            color: white;
+            padding: 15px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            font-size: 18px;
+            transition: background-color 0.3s;
+        }
+        .form-group button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>House Price Prediction</h2>
+        <form id="housePriceForm">
+            <div class="form-group">
+                <label for="location">Select the Location in Banglore</label>
+                <select id="location" name="location" required>
+                    {% for location in locations %}
+                    <option value="{{location}}">{{location}}</option>
+                    {%endfor%}
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="total_sqft">Total Square Feet</label>
+                <input type="number" id="total_sqft" name="total_sqft" required>
+            </div>
+            <div class="form-group">
+                <label for="bath">Bathrooms</label>
+                <input type="number" id="bath" name="bath" required>
+            </div>
+            <div class="form-group">
+                <label for="bhk">BHK</label>
+                <input type="number" id="bhk" name="bhk" required>
+            </div>
+            <div class="form-group">
+                <button type="submit" onclick="sendData()">Predict Price</button>
+            </div>
+        </form>
+        <h3><div id="result"></div></h3>
+
+    </div>
+
+    <script>
+        document.getElementById('housePriceForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            
+            const formData = new FormData(event.target);
+            const data = {
+                location: formData.get('location'),
+                total_sqft: formData.get('total_sqft'),
+                bath: formData.get('bath'),
+                bhk: formData.get('bhk')
+            };
+
+            fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(data),
+            })
+            .then(response => response.json())
+            .then(result => {
+                document.getElementById('result').innerText = `Predicted Price: ₹${result.predicted_price} lakhs`;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        });
+    </script>
+</body>
+</html>

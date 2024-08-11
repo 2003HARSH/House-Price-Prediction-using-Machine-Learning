@@ -1,10 +1,16 @@
 from flask import Flask, render_template, request, jsonify
 import pandas as pd
 import pickle
+import os
 
 app=Flask(__name__)
-df=pd.read_csv(r'C:\Users\harsh\Desktop\House Price Prediction\data\cleaned_data.csv')
-pipe_lr=pickle.load(open(r'C:\Users\harsh\Desktop\House Price Prediction\models\LRModel.pkl','rb'))
+
+# Get the current script directory
+data_path = os.getcwd()+'\data\cleaned_data.csv'
+model_path = os.getcwd()+'\models\LRModel.pkl'
+
+df=pd.read_csv(data_path)
+pipe_lr=pickle.load(open(model_path,'rb'))
 
 @app.route('/')
 def index():

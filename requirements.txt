@@ -4,3 +4,4 @@ numpy
 flask
 pickle
 matplotlib
+mlflow

@@ -4,11 +4,20 @@
 
 This project implements a house price prediction model using linear regression. The model predicts house prices based on features such as location, total square feet, number of bathrooms, and the number of bedrooms (BHK). The backend is built with Flask, and a simple HTML frontend is used for user interaction.
 
+![https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/1.png](https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/1.png)
+![https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/5.jpeg](https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/5.jpeg)
+![https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/6.jpeg](https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/6.jpeg)
+![https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/4.jpeg](https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning/blob/main/artifacts/4.jpeg)
+
+
 ## Features
 
 - **Linear Regression Model:** Utilizes linear regression to predict house prices.
 - **Flask Backend:** Handles API requests and serves the prediction model.
 - **HTML Form:** Provides a user interface for inputting house details and receiving predictions.
+- **Experiment Tracking:** Integrated MLflow for tracking experiments in my house price prediction project. This has significantly streamlined my process and provided deeper insights into model performance.
+- **Hyperparameter Tuning:** Leveraged GridSearchCV and Hyperopt to fine-tune my models, optimizing their performance and ensuring better results.
+- **Interactive Visualizations:** Studied MLflow’s interactive web interface for visualizing experiment results, which has been instrumental in understanding and comparing different model runs.
 
 ## Technologies
 
@@ -16,6 +25,7 @@ This project implements a house price prediction model using linear regression. 
 - **Flask**: Web framework for handling HTTP requests.
 - **scikit-learn**: Library for machine learning, used for training the linear regression model.
 - **HTML/CSS/JavaScript**: Frontend technologies for creating the user interface.
+- **MLFlow**: Experimentation tracking
 
 ## Installation
 
@@ -29,6 +39,7 @@ Ensure you have Python and pip installed on your system. You will also need the 
 - numpy
 - matplotlib
 - pickle
+- mlflow
 
 
 ### Clone the Repository
@@ -37,7 +48,7 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/2003HARSH/House-Price-Prediction-using-Machine-Learning
-cd house-price-prediction
+cd House-Price-Prediction-using-Machine-Learning
 ```
 You can install the required libraries using pip:
 

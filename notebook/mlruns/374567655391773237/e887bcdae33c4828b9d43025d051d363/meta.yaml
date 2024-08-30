@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/e887bcdae33c4828b9d43025d051d363/artifacts
+end_time: 1723467573531
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: e887bcdae33c4828b9d43025d051d363
+run_name: gifted-rook-689
+run_uuid: e887bcdae33c4828b9d43025d051d363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723467549901
+status: 3
+tags: []
+user_id: acer

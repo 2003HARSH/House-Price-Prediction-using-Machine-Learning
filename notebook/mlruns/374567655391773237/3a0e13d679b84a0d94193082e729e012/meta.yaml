@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/3a0e13d679b84a0d94193082e729e012/artifacts
+end_time: 1723466474434
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: 3a0e13d679b84a0d94193082e729e012
+run_name: delicate-bee-347
+run_uuid: 3a0e13d679b84a0d94193082e729e012
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723466186316
+status: 3
+tags: []
+user_id: acer

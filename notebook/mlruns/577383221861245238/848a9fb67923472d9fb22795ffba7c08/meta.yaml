@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/577383221861245238/848a9fb67923472d9fb22795ffba7c08/artifacts
+deleted_time: 1723456634837
+end_time: 1723455194949
+entry_point_name: ''
+experiment_id: '577383221861245238'
+lifecycle_stage: deleted
+run_id: 848a9fb67923472d9fb22795ffba7c08
+run_name: bedecked-fly-976
+run_uuid: 848a9fb67923472d9fb22795ffba7c08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723455123021
+status: 3
+tags: []
+user_id: acer

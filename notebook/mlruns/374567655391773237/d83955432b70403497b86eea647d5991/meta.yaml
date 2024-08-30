@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/d83955432b70403497b86eea647d5991/artifacts
+end_time: 1723466112984
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: d83955432b70403497b86eea647d5991
+run_name: handsome-worm-92
+run_uuid: d83955432b70403497b86eea647d5991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723466042542
+status: 3
+tags: []
+user_id: acer

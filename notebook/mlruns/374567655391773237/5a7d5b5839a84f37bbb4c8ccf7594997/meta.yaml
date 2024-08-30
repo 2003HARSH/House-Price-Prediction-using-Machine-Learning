@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/5a7d5b5839a84f37bbb4c8ccf7594997/artifacts
+end_time: 1723465215843
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: 5a7d5b5839a84f37bbb4c8ccf7594997
+run_name: adorable-hare-938
+run_uuid: 5a7d5b5839a84f37bbb4c8ccf7594997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723465172236
+status: 3
+tags: []
+user_id: acer

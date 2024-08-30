@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/a2cbde74f1164925bd936b2828ff36d4/artifacts
+end_time: 1723466186138
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: a2cbde74f1164925bd936b2828ff36d4
+run_name: rumbling-wren-247
+run_uuid: a2cbde74f1164925bd936b2828ff36d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723466113186
+status: 3
+tags: []
+user_id: acer

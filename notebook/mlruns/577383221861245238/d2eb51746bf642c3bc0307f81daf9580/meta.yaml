@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/577383221861245238/d2eb51746bf642c3bc0307f81daf9580/artifacts
+deleted_time: 1723458155815
+end_time: 1723456966980
+entry_point_name: ''
+experiment_id: '577383221861245238'
+lifecycle_stage: deleted
+run_id: d2eb51746bf642c3bc0307f81daf9580
+run_name: caring-newt-153
+run_uuid: d2eb51746bf642c3bc0307f81daf9580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723456738799
+status: 3
+tags: []
+user_id: acer

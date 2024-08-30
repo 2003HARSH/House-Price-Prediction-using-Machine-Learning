@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723458750507
+current_stage: None
+description: ''
+last_updated_timestamp: 1723458750507
+name: House_price_prediction_best_model
+run_id: 6aab7c0d4c644746aa5ca9223d2448e4
+run_link: ''
+source: mlflow-artifacts:/577383221861245238/6aab7c0d4c644746aa5ca9223d2448e4/artifacts/best_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/577383221861245238/6aab7c0d4c644746aa5ca9223d2448e4/artifacts/best_model
+user_id: null
+version: 2

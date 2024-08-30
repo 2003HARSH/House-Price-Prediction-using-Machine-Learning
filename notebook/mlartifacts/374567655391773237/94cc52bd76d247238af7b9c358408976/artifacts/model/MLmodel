@@ -1,0 +1,26 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.15.1
+model_size_bytes: 19950853
+model_uuid: 5036b704f92b422b9e77997238af02b8
+run_id: 94cc52bd76d247238af7b9c358408976
+signature:
+  inputs: '[{"type": "string", "name": "location", "required": true}, {"type": "double",
+    "name": "total_sqft", "required": true}, {"type": "integer", "name": "bath", "required":
+    true}, {"type": "integer", "name": "bhk", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-08-12 13:04:21.920459'

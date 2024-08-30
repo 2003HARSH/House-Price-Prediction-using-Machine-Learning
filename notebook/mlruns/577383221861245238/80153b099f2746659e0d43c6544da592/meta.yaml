@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/577383221861245238/80153b099f2746659e0d43c6544da592/artifacts
+deleted_time: 1723458155783
+end_time: 1723457178098
+entry_point_name: ''
+experiment_id: '577383221861245238'
+lifecycle_stage: deleted
+run_id: 80153b099f2746659e0d43c6544da592
+run_name: thundering-calf-787
+run_uuid: 80153b099f2746659e0d43c6544da592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723457097373
+status: 3
+tags: []
+user_id: acer

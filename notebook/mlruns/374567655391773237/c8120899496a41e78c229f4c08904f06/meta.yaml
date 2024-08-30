@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/c8120899496a41e78c229f4c08904f06/artifacts
+end_time: 1723464903245
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: c8120899496a41e78c229f4c08904f06
+run_name: wise-ape-501
+run_uuid: c8120899496a41e78c229f4c08904f06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723464842551
+status: 3
+tags: []
+user_id: acer

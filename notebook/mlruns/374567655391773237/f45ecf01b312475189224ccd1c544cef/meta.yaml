@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/f45ecf01b312475189224ccd1c544cef/artifacts
+end_time: 1723465744783
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: f45ecf01b312475189224ccd1c544cef
+run_name: welcoming-asp-423
+run_uuid: f45ecf01b312475189224ccd1c544cef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723465672181
+status: 3
+tags: []
+user_id: acer

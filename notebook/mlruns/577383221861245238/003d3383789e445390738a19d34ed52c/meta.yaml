@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/577383221861245238/003d3383789e445390738a19d34ed52c/artifacts
+deleted_time: 1723455178133
+end_time: 1723454712104
+entry_point_name: ''
+experiment_id: '577383221861245238'
+lifecycle_stage: deleted
+run_id: 003d3383789e445390738a19d34ed52c
+run_name: outer
+run_uuid: 003d3383789e445390738a19d34ed52c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723454668721
+status: 4
+tags: []
+user_id: acer

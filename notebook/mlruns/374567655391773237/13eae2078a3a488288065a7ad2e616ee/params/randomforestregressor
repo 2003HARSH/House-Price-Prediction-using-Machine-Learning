@@ -1,0 +1,2 @@
+RandomForestRegressor(max_depth=6, max_samples=0.8, n_estimators=50,
+                      random_state=4)

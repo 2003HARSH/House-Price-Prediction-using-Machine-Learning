@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/577383221861245238/1435b03a278e438f817c144b9dca65f6/artifacts
+deleted_time: 1723458155800
+end_time: 1723456966980
+entry_point_name: ''
+experiment_id: '577383221861245238'
+lifecycle_stage: deleted
+run_id: 1435b03a278e438f817c144b9dca65f6
+run_name: mercurial-moth-92
+run_uuid: 1435b03a278e438f817c144b9dca65f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723456738799
+status: 3
+tags: []
+user_id: acer

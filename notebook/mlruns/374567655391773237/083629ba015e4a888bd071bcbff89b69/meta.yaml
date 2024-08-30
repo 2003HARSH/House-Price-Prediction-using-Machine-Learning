@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/083629ba015e4a888bd071bcbff89b69/artifacts
+end_time: 1723467895243
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: 083629ba015e4a888bd071bcbff89b69
+run_name: clumsy-squid-797
+run_uuid: 083629ba015e4a888bd071bcbff89b69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723467870051
+status: 3
+tags: []
+user_id: acer

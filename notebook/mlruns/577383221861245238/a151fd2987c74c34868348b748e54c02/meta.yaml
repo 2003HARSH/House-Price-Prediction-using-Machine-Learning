@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/577383221861245238/a151fd2987c74c34868348b748e54c02/artifacts
+deleted_time: 1723458245921
+end_time: 1723457937187
+entry_point_name: ''
+experiment_id: '577383221861245238'
+lifecycle_stage: deleted
+run_id: a151fd2987c74c34868348b748e54c02
+run_name: calm-stork-591
+run_uuid: a151fd2987c74c34868348b748e54c02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723457887017
+status: 3
+tags: []
+user_id: acer

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/7f06091197e848c6a7b05c4040855d4c/artifacts
+end_time: 1723467783855
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: 7f06091197e848c6a7b05c4040855d4c
+run_name: abrasive-kite-667
+run_uuid: 7f06091197e848c6a7b05c4040855d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723467709970
+status: 3
+tags: []
+user_id: acer

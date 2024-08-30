@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/533bb107e79640db95524d52c4295dcd/artifacts
+end_time: 1723464706925
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: 533bb107e79640db95524d52c4295dcd
+run_name: intrigued-auk-667
+run_uuid: 533bb107e79640db95524d52c4295dcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723464674803
+status: 3
+tags: []
+user_id: acer

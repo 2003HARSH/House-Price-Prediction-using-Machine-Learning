@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/7d80039b995b4d2da9e48f97fd182897/artifacts
+end_time: 1723467549796
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: 7d80039b995b4d2da9e48f97fd182897
+run_name: gifted-shoat-991
+run_uuid: 7d80039b995b4d2da9e48f97fd182897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723467525267
+status: 3
+tags: []
+user_id: acer

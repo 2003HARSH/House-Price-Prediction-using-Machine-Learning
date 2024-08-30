@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/577383221861245238/10f4f5f639ef44eebbb40e47e49cec20/artifacts
+end_time: 1723458372956
+entry_point_name: ''
+experiment_id: '577383221861245238'
+lifecycle_stage: active
+run_id: 10f4f5f639ef44eebbb40e47e49cec20
+run_name: bemused-pug-812
+run_uuid: 10f4f5f639ef44eebbb40e47e49cec20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723458251734
+status: 3
+tags: []
+user_id: acer

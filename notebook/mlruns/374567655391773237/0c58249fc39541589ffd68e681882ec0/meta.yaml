@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/0c58249fc39541589ffd68e681882ec0/artifacts
+end_time: 1723465372070
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: 0c58249fc39541589ffd68e681882ec0
+run_name: able-lamb-315
+run_uuid: 0c58249fc39541589ffd68e681882ec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723465338959
+status: 3
+tags: []
+user_id: acer

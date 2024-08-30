@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/980226dcf22a4dc18da2ae8b36f97162/artifacts
+end_time: 1723467387265
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: 980226dcf22a4dc18da2ae8b36f97162
+run_name: brawny-auk-611
+run_uuid: 980226dcf22a4dc18da2ae8b36f97162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723467312217
+status: 3
+tags: []
+user_id: acer

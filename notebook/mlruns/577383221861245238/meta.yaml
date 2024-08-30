@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/577383221861245238
+creation_time: 1723454667244
+experiment_id: '577383221861245238'
+last_update_time: 1723454667244
+lifecycle_stage: active
+name: Grid Search

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/51d387340cc54689a3f5ec9daaeac4b0/artifacts
+end_time: 1723465028269
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: 51d387340cc54689a3f5ec9daaeac4b0
+run_name: smiling-snipe-273
+run_uuid: 51d387340cc54689a3f5ec9daaeac4b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723464988547
+status: 3
+tags: []
+user_id: acer

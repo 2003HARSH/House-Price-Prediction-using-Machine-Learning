@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/9b0d97600aeb4146b7bf2ad47065c578/artifacts
+deleted_time: 1723464547519
+end_time: null
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: deleted
+run_id: 9b0d97600aeb4146b7bf2ad47065c578
+run_name: sassy-wren-354
+run_uuid: 9b0d97600aeb4146b7bf2ad47065c578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723464531350
+status: 1
+tags: []
+user_id: acer

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/d3c40b95163742a79b843f3b27f15280/artifacts
+end_time: 1723467525163
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: d3c40b95163742a79b843f3b27f15280
+run_name: caring-hawk-903
+run_uuid: d3c40b95163742a79b843f3b27f15280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723467456605
+status: 3
+tags: []
+user_id: acer

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/06cd6222d1964ddea718d7b4907967db/artifacts
+end_time: 1723465310388
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: 06cd6222d1964ddea718d7b4907967db
+run_name: placid-finch-147
+run_uuid: 06cd6222d1964ddea718d7b4907967db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723465282217
+status: 3
+tags: []
+user_id: acer

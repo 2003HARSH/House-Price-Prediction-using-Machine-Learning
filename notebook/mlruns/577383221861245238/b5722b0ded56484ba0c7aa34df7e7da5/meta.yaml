@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/577383221861245238/b5722b0ded56484ba0c7aa34df7e7da5/artifacts
+deleted_time: 1723458155790
+end_time: 1723457178098
+entry_point_name: ''
+experiment_id: '577383221861245238'
+lifecycle_stage: deleted
+run_id: b5722b0ded56484ba0c7aa34df7e7da5
+run_name: shivering-sheep-747
+run_uuid: b5722b0ded56484ba0c7aa34df7e7da5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723457097373
+status: 3
+tags: []
+user_id: acer

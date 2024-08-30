@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374567655391773237/9036d724dee04f09b3b195243a2fb163/artifacts
+end_time: 1723467709783
+entry_point_name: ''
+experiment_id: '374567655391773237'
+lifecycle_stage: active
+run_id: 9036d724dee04f09b3b195243a2fb163
+run_name: gaudy-fly-183
+run_uuid: 9036d724dee04f09b3b195243a2fb163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723467634511
+status: 3
+tags: []
+user_id: acer

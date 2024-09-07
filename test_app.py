@@ -9,7 +9,7 @@ def test_index_endpoint():
 
 def test_predict_endpoint():
     test_data = {
-        'location': '1st Phase JP Nagar',
+        'location': 'Sarjapur',
         'total_sqft': 1200,
         'bath': 2,
         'bhk': 3

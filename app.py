@@ -6,8 +6,9 @@ import os
 
 app=Flask(__name__)
 
-data_path = 'cleaned_data.csv'
-model_path='LRModel.pkl'
+
+data_path = r'./data/cleaned_data.csv'
+model_path = r'./models/LRModel.pkl'
 
 df=pd.read_csv(data_path)
 pipe_lr=pickle.load(open(model_path,'rb'))
@@ -33,5 +34,5 @@ def predict():
 
 
 if __name__=='__main__':
-    app.run(debug=True,port=4000)
+    app.run(host='0.0.0.0',port=5000)
 

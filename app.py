@@ -3,12 +3,11 @@ import pandas as pd
 import pickle
 import os
 
+
 app=Flask(__name__)
 
-# Get the current script directory
-
-data_path = os.getcwd()+'\data\cleaned_data.csv'
-model_path = os.getcwd()+'\models\LRModel.pkl'
+data_path = 'cleaned_data.csv'
+model_path='LRModel.pkl'
 
 df=pd.read_csv(data_path)
 pipe_lr=pickle.load(open(model_path,'rb'))

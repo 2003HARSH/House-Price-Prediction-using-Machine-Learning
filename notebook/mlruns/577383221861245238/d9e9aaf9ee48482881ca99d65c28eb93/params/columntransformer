@@ -1,3 +1,0 @@
-ColumnTransformer(remainder='passthrough',
-                  transformers=[('onehotencoder', OneHotEncoder(sparse=False),
-                                 ['location'])])

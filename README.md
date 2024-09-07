@@ -66,7 +66,7 @@ Run the Flask server with the following command:
 python app.py
 ```
 
-The server will start and listen on `http://127.0.0.1:4000/` .
+The server will start and listen on `http://127.0.0.1:5000/` .
 
 ### Using the HTML Form
 

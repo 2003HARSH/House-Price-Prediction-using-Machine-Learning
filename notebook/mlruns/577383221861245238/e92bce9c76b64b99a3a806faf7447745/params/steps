@@ -1,3 +1,0 @@
-[('columntransformer', ColumnTransformer(remainder='passthrough',
-                  transformers=[('onehotencoder', OneHotEncoder(sparse=False),
-                                 ['location'])])), ('standardscaler', StandardScaler()), ('randomforestregressor', RandomForestRegressor(max_depth=10, max_samples=0.8, random_state=4))]

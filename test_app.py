@@ -2,12 +2,12 @@ from flask import json
 from app import app
 
 
-def test_index_endpoint(client):
+def test_index_endpoint():
     response = app.test_client().get('/')
     assert response.status_code == 200
 
 
-def test_predict_endpoint(client):
+def test_predict_endpoint():
     test_data = {
         'location': '1st Phase JP Nagar',
         'total_sqft': 1200,

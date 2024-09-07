@@ -7,10 +7,8 @@ app=Flask(__name__)
 
 # Get the current script directory
 
-# data_path = os.getcwd()+'\data\cleaned_data.csv'
-data_path = r'data\cleaned_data.csv'
-# model_path = os.getcwd()+'\models\LRModel.pkl'
-model_path=r'models\LRModel.pkl'
+data_path = os.getcwd()+'\data\cleaned_data.csv'
+model_path = os.getcwd()+'\models\LRModel.pkl'
 
 df=pd.read_csv(data_path)
 pipe_lr=pickle.load(open(model_path,'rb'))
